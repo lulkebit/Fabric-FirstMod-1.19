@@ -2,5 +2,9 @@
   "item.homosexmod.citrine": "Citrine",
   "item.homosexmod.raw_citrine": "Raw Citrine",
 
+  "block.homosexmod.citrine_block": "Block of Citrine",
+  "block.homosexmod.citrine_ore": "Citrine Ore",
+  "block.homosexmod.deepslate_citrine_ore": "Deepslate Citrine Ore",
+
   "itemgroup.citrine": "Citrine Item Group"
 }
