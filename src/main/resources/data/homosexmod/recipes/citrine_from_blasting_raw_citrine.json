@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "cookingTime": 100,
+  "experience": 0.7,
+  "group": "citrie",
+  "ingredient": {
+    "item": "homosexmod:raw_citrine"
+  },
+  "result": "homosexmod:citrine"
+}
