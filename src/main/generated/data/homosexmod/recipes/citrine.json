@@ -1,12 +1,13 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
   "ingredients": [
     {
       "item": "homosexmod:citrine_block"
     }
   ],
   "result": {
-    "item": "homosexmod:citrine",
-    "count": 9
+    "count": 9,
+    "item": "homosexmod:citrine"
   }
 }

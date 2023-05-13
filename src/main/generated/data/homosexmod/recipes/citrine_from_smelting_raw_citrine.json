@@ -1,8 +1,9 @@
 {
-  "type": "minecraft:blasting",
-  "cookingTime": 100,
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
   "experience": 0.7,
-  "group": "citrie",
+  "group": "citrine",
   "ingredient": {
     "item": "homosexmod:raw_citrine"
   },
