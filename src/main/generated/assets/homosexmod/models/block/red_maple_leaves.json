@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "homosexmod:block/red_maple_leaves"
+  }
+}
