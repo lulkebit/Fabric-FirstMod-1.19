@@ -1,3 +1,5 @@
-// 1.19.4	2023-05-13T21:23:19.4768155	Very Gay Mod/homosexmod
+// 1.19.4	2023-05-14T11:51:22.1833247	Very Gay Mod/homosexmod
+015c5827fc7a766db944d349bdb1e909fe605dbd data\homosexmod\worldgen\configured_feature\citrine_ore.json
 1692b8e2f0c2c79303be902895ee035ddccc10d2 data\homosexmod\worldgen\placed_feature\red_maple.json
-9f67f57421bf25792639e4844634bafdf95e731b data\homosexmod\worldgen\configured_feature\red_maple.json
+07e346719f8c514d70d8bbb443401bd9796c2dd9 data\homosexmod\worldgen\placed_feature\citrine_ore_placed.json
+9271c87f1aff0305c6ebe2fc7f824bbb23d81ba5 data\homosexmod\worldgen\configured_feature\red_maple.json
